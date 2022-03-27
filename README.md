@@ -1,1 +1,1 @@
-# dice_refresh
+# Refresh Dice Game
